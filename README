@@ -1,0 +1,1 @@
+builds a model of background using GMMs (builds on an implementation by Zivokic, 2005), uses this model in finding foreground elements, and visualizes them using openFrameworks (very nice code by stefanix), and tracks orientation using the leading motion vector (using opencv's lucas kanade optical flow)
